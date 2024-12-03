@@ -9,11 +9,11 @@ Neuronal dynamics unfold in the close vicinity of a second order phase transitio
 # This repository contains:
 
 - the pre-processed data on which the analysis is based
-- a jupyter notebook summarizing the analysis
+- a jupyter notebook summarizing and illustrating the analysis
 - the entire analysis script, including:
   - statistical analyses
   - visualizations
-  - helper functions (which are, e.g, for testing the assumptions of the statistical models)
+  - helper functions (which are, e.g., for testing the assumptions of the statistical models)
 
 # Data 
 The original data is from: 
